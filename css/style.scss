@@ -220,7 +220,7 @@ button.btn, input.btn {
 	3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
-  margin-top: 10em;
+  margin-top: 5em;
   @include bp-xsmall {
     margin-top: 2em;
   }
@@ -235,6 +235,7 @@ button.btn, input.btn {
 .app-icon-shadow {
 	display: flex;
 	filter: $drop-shadow;
+	margin-bottom: 1.5em;
 }
 
 .app-icon-large {
@@ -279,7 +280,7 @@ button.btn, input.btn {
 }
 
 .content-wrap {
-  margin-bottom: 8em;
+  margin-bottom: 5em;
   @include bp-xsmall {
     margin-bottom: 2em;
   }
@@ -295,7 +296,7 @@ button.btn, input.btn {
     }
   }
   .content {
-    margin-top: 5em;
+    margin-top: 2em;
     margin-left: 5em;
     @include bp-xsmall {
       margin-left: 0;
