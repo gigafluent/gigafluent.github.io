@@ -7,26 +7,45 @@
         <div class="row">
           <div class="col-md-12">
 
-            {% if site.section_title != '' %}
-            <h2 class="section-title text-center">{{ site.section_title }}</h2>
-            {% endif %}
-            {% if site.section_subtitle != '' %}
-            <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
-            {% endif %}
-
-            <div class="break"></div>
-
-            {% for post in paginator.posts %}
-              <div class="wow fadeIn">
-              {% if post.position == "left" %}
-                {% include content-left.html %}
+            <div id="work">
+              <!-- <div class="break"></div> -->
+              {% if site.work_section_title %}
+                <h2 class="section-title text-center">{{ site.work_section_title }}</h2>
               {% endif %}
+              {% for post in paginator.posts %}
+                {% if post.category == "work" %}
+                <div class="wow fadeIn">
+                  {% if post.position == "left" %}
+                    {% include content-left.html %}
+                  {% endif %}
 
-              {% if post.position == "right" %}
-                {% include content-right.html %}
+                  {% if post.position == "right" %}
+                    {% include content-right.html %}
+                  {% endif %}
+                </div>
+                {% endif %}
+              {% endfor %}
+            </div>            
+
+            <div id="apps">
+              <!-- <div class="break"></div> -->
+              {% if site.apps_section_title %}
+                <h2 class="section-title text-center">{{ site.apps_section_title }}</h2>
               {% endif %}
-              </div>
-            {% endfor %}
+              {% for post in paginator.posts %}
+                {% if post.category == "apps" %}
+                  <div class="wow fadeIn">
+                  {% if post.position == "left" %}
+                    {% include content-left.html %}
+                  {% endif %}
+
+                  {% if post.position == "right" %}
+                    {% include content-right.html %}
+                  {% endif %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>            
 
             {% include pagination.html %}
 
