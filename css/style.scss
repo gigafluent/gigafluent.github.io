@@ -19,6 +19,10 @@
 $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
+$drop-shadow: 	drop-shadow(0px 5px 10px rgba(#000, 0.1)) 
+				drop-shadow(0px 1px 1px rgba(#000, 0.2)
+				);
+
 %opensans { font-family: 'Open Sans', sans-serif; }
 %merriweather { font-family: 'Merriweather', serif; }
 
