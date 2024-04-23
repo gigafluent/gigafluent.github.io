@@ -308,13 +308,16 @@ button.btn, input.btn {
       margin-bottom: 1.5em;
       &:after {
         content: '';
-        position: absolute;
-        top: 1.5em;
-        left: 0;
         width: 100%;
         height: 3px;
         background-color: #ECEFF1;
       }
+    }
+    .post-title-separator {
+        content: '';
+        width: 100%;
+        height: 3px;
+        background-color: #FF0000;
     }
     .excerpt {
       width: 80%;
