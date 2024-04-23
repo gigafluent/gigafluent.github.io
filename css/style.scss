@@ -313,6 +313,7 @@ button.btn, input.btn {
     }
     .excerpt {
       width: 80%;
+      margin-top: 1.5em;
       @include bp-xsmall {
         width: 100%;
       }
