@@ -304,6 +304,7 @@ button.btn, input.btn {
       display: flex;
       gap: 30px;
       align-items: flex-end;
+      position: relative;
       margin-bottom: 1.5em;
       &:after {
         content: '';
@@ -314,9 +315,6 @@ button.btn, input.btn {
         height: 3px;
         background-color: #ECEFF1;
       }
-    }
-    h3.title {
-      position: relative;
     }
     .excerpt {
       width: 80%;
