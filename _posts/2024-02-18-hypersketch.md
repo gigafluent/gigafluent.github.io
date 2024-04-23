@@ -10,5 +10,8 @@ featured_image: '/img/posts/hypersketch_screens-2x.png'
 appstore_link: 'https://apps.apple.com/us/app/hypersketch/id1580894877'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+description:
+    - AI assisted ideas sketching for designers.
+    - I was responsible for the iOS development: drawing features, AI module implementation, paywalls, etc.
+    - Technologies: SwiftUI, PencilKit, Stable Diffusion
 ---

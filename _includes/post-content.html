@@ -21,7 +21,9 @@
       <div class="post-title-separator"></div>
   
       <div class="col-xs-12 col-md-8">
-        <p class="excerpt">{{ post.lead_text }}</p>
+        {% for des in post.description %}
+          <p class="excerpt"> {{ des }}</p>
+        {% endfor %}
 
         <div class="tags">
           {% if post.appstore_link %}
