@@ -3,7 +3,7 @@ layout: inner
 position: right
 title: 'Rescue Themes'
 date: 2016-02-20 15:56:00
-categories: development design
+category: work
 tags: WordPress PHP Sass
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
 project_link: 'https://rescuethemes.com'
