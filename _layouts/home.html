@@ -8,40 +8,26 @@
           <div class="col-md-12">
 
             <div id="work">
-              <!-- <div class="break"></div> -->
               {% if site.work_section_title %}
                 <h2 class="section-title text-center">{{ site.work_section_title }}</h2>
               {% endif %}
               {% for post in paginator.posts %}
                 {% if post.category == "work" %}
                 <div class="wow fadeIn">
-                  {% if post.position == "left" %}
-                    {% include content-left.html %}
-                  {% endif %}
-
-                  {% if post.position == "right" %}
-                    {% include content-right.html %}
-                  {% endif %}
+                  {% include post-content.html %}
                 </div>
                 {% endif %}
               {% endfor %}
             </div>            
 
             <div id="apps">
-              <!-- <div class="break"></div> -->
               {% if site.apps_section_title %}
                 <h2 class="section-title text-center">{{ site.apps_section_title }}</h2>
               {% endif %}
               {% for post in paginator.posts %}
                 {% if post.category == "apps" %}
                   <div class="wow fadeIn">
-                  {% if post.position == "left" %}
-                    {% include content-left.html %}
-                  {% endif %}
-
-                  {% if post.position == "right" %}
-                    {% include content-right.html %}
-                  {% endif %}
+                    {% include post-content.html %}
                   </div>
                 {% endif %}
               {% endfor %}
