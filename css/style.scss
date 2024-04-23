@@ -53,6 +53,7 @@ p {
 }
 
 a {
+  color: inherit;
   @include transition(color .2s ease-in-out);
   &:hover {
     color: #FF5B33;
@@ -145,7 +146,7 @@ button.btn, input.btn {
     display: table;
     i {
       padding-right: 0.5em;
-      font-size: 4em;
+      font-size: 3em;
     }
   }
 }
