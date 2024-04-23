@@ -1,6 +1,6 @@
 <div class="content">
 
-  {% if post.icon != empty %}
+  {% if post.icon %}
   <div class="app-icon-shadow">
     <svg width="0" height="0">
       <defs>
@@ -17,20 +17,23 @@
 
   <p class="excerpt">{{ post.lead_text }}</p>
 
-  {% if post.appstore_link != empty %}
-  <a class="app-store-link" href="{{ post.appstore_link }}"><img class="app-store" src="img/appstore.png"></a>
-  {% endif %}
+  <div class="tags">
+    {% if post.appstore_link %}
+    <a class="app-store-link" href="{{ post.appstore_link }}"><img class="app-store" src="img/appstore.png"></a>
+    {% endif %}
 
-  {% if post.project_link != empty %}
-  <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
-  {% endif %}
-
+    {% if post.project_link %}
+    <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
+    {% endif %}
+  </div>
+  
+  <!--
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
     <span>{{ tag }}</span>
     {% endfor %}
   </div>
-  {% endif %}
+  {% endif %} -->
 
 </div>
