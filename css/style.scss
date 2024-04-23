@@ -235,7 +235,7 @@ button.btn, input.btn {
 .app-icon-shadow {
 	display: flex;
 	filter: $drop-shadow;
-	margin-bottom: 1.5em;
+	margin-bottom: 0.5em;
 }
 
 .app-icon-large {
@@ -288,15 +288,17 @@ button.btn, input.btn {
     margin-bottom: 2em;
   }
   img.img-responsive {
+/*
     @include bp-xsmall {
       display: none;
     }
     @include bp-small {
       display: none;
     }
+*/
   }
   .content {
-    margin-top: 2em;
+    margin-top: 3em;
     margin-left: 5em;
     @include bp-xsmall {
       margin-left: 0;
