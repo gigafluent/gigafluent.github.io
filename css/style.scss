@@ -301,7 +301,9 @@ button.btn, input.btn {
       margin-left: 0;
     }
     .post-title {
-      display: flex
+      display: flex;
+      gap: 30px;
+      align-items: flex-end;
     }
     h3.title {
       position: relative;
