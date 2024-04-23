@@ -300,6 +300,9 @@ button.btn, input.btn {
     @include bp-xsmall {
       margin-left: 0;
     }
+    .post-title {
+      display: flex
+    }
     h3.title {
       position: relative;
       margin-bottom: 1.5em;
