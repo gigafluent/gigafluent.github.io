@@ -268,17 +268,6 @@ button.btn, input.btn {
   }
 }
 
-.section-subtitle {
-  width: 40%;
-  margin: 0 auto;
-  @include bp-xsmall {
-    width: 100%;
-  }
-  @include bp-small {
-    width: 60%;;
-  }
-}
-
 .content-wrap {
   margin-bottom: 5em;
   @include bp-xsmall {
@@ -288,6 +277,8 @@ button.btn, input.btn {
     margin-bottom: 2em;
   }
   img.img-responsive {
+    margin-left: 1em;
+    margin-right: 1em;
     @include bp-xsmall {
       display: none;
     }
@@ -297,9 +288,11 @@ button.btn, input.btn {
   }
   .content {
     margin-top: 3em;
-    margin-left: 5em;
+    margin-left: 2em;
+    margin-right: 2em;
     @include bp-xsmall {
-      margin-left: 0;
+      margin-left: 1em;
+      margin-right: 1em;
     }
     .post-title {
       display: flex;
