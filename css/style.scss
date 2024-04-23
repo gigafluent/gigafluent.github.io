@@ -278,8 +278,6 @@ button.btn, input.btn {
     margin-bottom: 2em;
   }
   img.img-responsive {
-    margin-left: 1em;
-    margin-right: 1em;
     @include bp-xsmall {
       display: none;
     }
@@ -289,8 +287,8 @@ button.btn, input.btn {
   }
   .content {
     margin-top: 3em;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 3em;
+    margin-right: 3em;
     @include bp-xsmall {
       margin-left: 1em;
       margin-right: 1em;
@@ -301,14 +299,14 @@ button.btn, input.btn {
       align-items: flex-end;
     }
     .post-title-separator {
-        content: '';
-        width: 100%;
-        height: 3px;
-        background-color: #ECEFF1;
+      margin-bottom: 1.5em;
+      content: '';
+      width: 100%;
+      height: 3px;
+      background-color: #ECEFF1;
     }
     .excerpt {
       width: 80%;
-      margin-top: 1.5em;
       @include bp-xsmall {
         width: 100%;
       }
