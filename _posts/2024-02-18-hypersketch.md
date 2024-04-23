@@ -12,6 +12,8 @@ button_icon: 'flask'
 button_text: 'Visit Project'
 description:
     - AI assisted ideas sketching for designers.
-    - I was responsible for the iOS development: drawing features, AI module implementation, paywalls, etc.
-    - Technologies: SwiftUI, PencilKit, Stable Diffusion
+    - | 
+      I was responsible for the iOS development: drawing features, AI module implementation, paywalls, etc.
+    - |
+      Technologies: SwiftUI, PencilKit, Stable Diffusion
 ---
