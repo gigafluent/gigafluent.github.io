@@ -228,6 +228,22 @@ button.btn, input.btn {
   }
 }
 
+.app-icon-shadow {
+	display: flex;
+	filter: $drop-shadow;
+}
+
+.app-icon-large {
+	width: 100px;
+	height: 100px;
+	-webkit-clip-path: url(#shape120);
+	clip-path: url(#shape120);
+}
+
+.app-store {
+	height: 75px;
+}
+
 .section-title {
   position: relative;
   margin: 0 auto;
