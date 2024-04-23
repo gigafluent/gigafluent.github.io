@@ -22,7 +22,8 @@ url: "https://gigafluent.github.io/" # the base hostname & protocol for your sit
 twitter_username: 'gigafluent1'
 github_username: 'gigafluent'
 stackoverflow_userid: '22764'
-medium_username: 
+linkedin_username: 'vgrigorov'
+medium_username:
 
 # Build settings
 markdown: kramdown
