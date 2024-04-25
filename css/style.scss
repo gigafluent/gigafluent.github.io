@@ -117,12 +117,12 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0;
+  margin: 10em 0 1em 0;
   @include bp-xsmall {
-    margin: 5em 0 5em 0;
+    margin: 5em 0 1em 0;
   }
   @include bp-small {
-    margin: 5em 0 5em 0;
+    margin: 5em 0 1em 0;
   }
 }
 
@@ -253,7 +253,7 @@ button.btn, input.btn {
 .section-title {
   font-size: 4em;
   position: relative;
-  margin: 0 auto;
+  margin-top: 5em;
   margin-bottom: 1em;
   &:after {
     content: '';
