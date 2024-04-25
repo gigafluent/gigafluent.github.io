@@ -219,6 +219,14 @@ button.btn, input.btn {
 /*--------------------------------------------------------------
 	3.0 Posts
 --------------------------------------------------------------*/
+
+.anchor {
+  display: block;
+  height: 60px;       /* this is the height of your header */
+  margin-top: -60px;  /* this is again negative value of the height of your header */
+  visibility: hidden;
+}
+
 #portfolio .container {
   margin-top: 5em;
   @include bp-xsmall {
@@ -253,7 +261,7 @@ button.btn, input.btn {
 .section-title {
   font-size: 4em;
   position: relative;
-  margin-top: 5em;
+  margin-top: 3em;
   margin-bottom: 1em;
   &:after {
     content: '';
