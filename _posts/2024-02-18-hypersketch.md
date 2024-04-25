@@ -8,8 +8,6 @@ category: work
 tags: Jekyll Sass Bootstrap
 featured_image: '/img/posts/hypersketch_screens-2x.png'
 appstore_link: 'https://apps.apple.com/us/app/hypersketch/id1580894877'
-button_icon: 'flask'
-button_text: 'Visit Project'
 description:
     - AI assisted ideas sketching for designers.
     - | 

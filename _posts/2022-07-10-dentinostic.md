@@ -8,8 +8,6 @@ category: work
 tags: Jekyll Sass Bootstrap
 featured_image: '/img/posts/dentinostic-screens-2x.png'
 appstore_link: 'https://apps.apple.com/de/app/dentinostic/id1663916529'
-button_icon: 'flask'
-button_text: 'Visit Project'
 description:
     - Personal online dentist. Get immediate help for dental problems.
     - | 
