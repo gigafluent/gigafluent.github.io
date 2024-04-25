@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'BookScanner'
+title: 'Book Scanner'
 icon: '/img/posts/bookscanner-icon.jpeg'
 date: 2023-11-15 14:15:00
 category: apps
