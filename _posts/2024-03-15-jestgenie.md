@@ -8,7 +8,7 @@ category: apps
 tags: Jekyll Sass Bootstrap
 featured_image: '/img/posts/jestgenie-screens-2x.png'
 appstore_link: 'https://apps.apple.com/us/app/jestgenie-instagram-captions/id6474176838'
-project_link: 'https://jestgenie.app
+project_link: 'https://jestgenie.app'
 button_icon: 'link'
 button_text: 'jestgenie.app'
 description:
