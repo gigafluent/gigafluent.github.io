@@ -27,11 +27,11 @@
 
         <div class="post-links">
           {% if post.appstore_link %}
-          <a class="app-store-link" href="{{ post.appstore_link }}"><img class="app-store" src="img/appstore.png"></a>
+          <a class="app-store-link" href="{{ post.appstore_link }}" target="_blank"><img class="app-store" src="img/appstore.png"></a>
           {% endif %}
 
           {% if post.project_link %}
-          <a href="{{ post.project_link }}"><i class="fa fa-{{ post.project_link_icon }} fa-lg"></i>   {{ post.project_link_text }}</a>
+          <a href="{{ post.project_link }}" target="_blank"><i class="fa fa-{{ post.project_link_icon }} fa-lg" style="margin-right: 1em;"></i>{{ post.project_link_text }}</a>
           {% endif %}
         </div>
       </div>
