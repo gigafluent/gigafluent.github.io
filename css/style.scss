@@ -269,6 +269,16 @@ button.btn, input.btn {
   }
 }
 
+.project-link {
+  display: flex;
+  gap: 30px;
+  margin-left: 2em;
+  margin-right: 2em;
+  p {
+    font-size: 24px;
+  }
+}
+
 .content-wrap {
   margin-bottom: 5em;
   @include bp-xsmall {
