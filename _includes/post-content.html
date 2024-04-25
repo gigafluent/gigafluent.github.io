@@ -25,13 +25,13 @@
           <p class="excerpt"> {{ des }}</p>
         {% endfor %}
 
-        <div class="tags">
+        <div class="post-links">
           {% if post.appstore_link %}
           <a class="app-store-link" href="{{ post.appstore_link }}"><img class="app-store" src="img/appstore.png"></a>
           {% endif %}
 
           {% if post.project_link %}
-          <a href="{{ post.project_link }}"><div class="project-link"><i class="fa fa-{{ post.project_link_icon }} fa-lg"></i>{{ post.project_link_text }}</div></a>
+          <a href="{{ post.project_link }}"><i class="fa fa-{{ post.project_link_icon }} fa-lg"></i>{{ post.project_link_text }}</a>
           {% endif %}
         </div>
       </div>
