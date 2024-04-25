@@ -2,12 +2,14 @@
 layout: inner
 position: right
 title: 'BookScanner'
-date: 2016-02-20 14:15:00
+icon: '/img/posts/bookscanner-icon.jpeg'
+date: 2023-11-15 14:15:00
 category: apps
 tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+featured_image: '/img/posts/bookscanner-screens-2x.png'
+project_link: 'https://apps.apple.com/us/app/book-scanner-ocr-text/id6468075372'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+description:
+    - Scan books and documents and let ChatGPT do proofreading.
 ---
