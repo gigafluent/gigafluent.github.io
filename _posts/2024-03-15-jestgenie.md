@@ -12,7 +12,5 @@ project_link: 'https://jestgenie.app'
 project_link_icon: 'link'
 project_link_text: 'jestgenie.app'
 description:
-    - Upload an image and let JestGenie generate funny captions with the help of AI.
-    - |
-      Technologies: SwiftUI, ChatGPT Vision
+    - Upload an image and let this neat SwiftUI app generate funny captions with the help of GPT-4 Vision model from OpenAI.
 ---

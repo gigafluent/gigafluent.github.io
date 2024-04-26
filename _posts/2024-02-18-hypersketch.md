@@ -9,9 +9,6 @@ tags: Jekyll Sass Bootstrap
 featured_image: '/img/posts/hypersketch_screens-2x.png'
 appstore_link: 'https://apps.apple.com/us/app/hypersketch/id1580894877'
 description:
-    - AI assisted ideas sketching for designers.
-    - | 
-      I was responsible for the iOS development: drawing features, AI module implementation, paywalls, etc.
-    - |
-      Technologies: SwiftUI, PencilKit, Stable Diffusion
+    - AI-assisted ideas sketching for designers. A realistic, better-than-paper feel is provided by low-latency Apple Pencil support.
+    - I was hired to bring the first version of this modern SwiftUI app to the App Store and then develop more drawing features, the client-side AI module, and communication with the Stable Diffusion backend.
 ---
