@@ -141,12 +141,14 @@ button.btn, input.btn {
   }
   h1 {
     font-size: 48px;
+    margin-bottom: 2em;
   }
   p {
-    margin: 2em 0 4em 0;
+    margin: 1em 0 1em 0;
   }
   .hero-buttons {
     margin: 0 auto;
+    margin-top: 3em;
     display: table;
     i {
       padding-right: 0.5em;
@@ -315,6 +317,7 @@ button.btn, input.btn {
     }
     .excerpt {
       width: 80%;
+      margin-bottom: 1em;
       @include bp-xsmall {
         width: 100%;
       }
