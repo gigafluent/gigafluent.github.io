@@ -35,8 +35,6 @@ apps_section_title: 'My Apps'
 
 # Build settings
 markdown: kramdown
-kramdown: 
-  parse_block_html: true
   
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
