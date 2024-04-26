@@ -16,7 +16,6 @@
 title: "Vlad Grigorov"
 email: 'vlad@gigafluent.com'
 profile_image: '/img/profile.png'
-description: "I can make your iOS app shine."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gigafluent.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'gigafluent1'
@@ -24,6 +23,11 @@ github_username: 'gigafluent'
 stackoverflow_userid: '22764'
 linkedin_username: 'vgrigorov'
 medium_username:
+
+description:
+  - I’m a seasoned iOS developer with 12 years of experience making 5-star-rated apps for the iPhone, iPad, and Apple Watch. Here are a few [apps](#work) I’ve worked on over the years. 
+  - I’m dedicated to freelance work through my company Gigafluent Ltd. I’m also building my own [apps](#apps) and doing ASO. I’ve been a Development Manager for 5 years on the iOS team of a top-rated multiplatform app and I know well the entire process of software development, QA, continuous integration, and App Store deployment.
+  - If you need help with your iOS application, don’t hesitate to [contact me](mailto:vlad@gigafluent.com). I can make your app shine.
 
 #Sections
 work_section_title: 'My Work'
