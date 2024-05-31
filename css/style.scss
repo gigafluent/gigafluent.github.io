@@ -369,7 +369,7 @@ button.btn, input.btn {
 
 .page {
   p {
-    line-height: 1.2;
+    line-height: 1.4;
     font-size: 1em;
   }
 
@@ -391,18 +391,22 @@ button.btn, input.btn {
     width: 100%;
   }
 
-  .table td,
-  .table th {
+  .td {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+  }
+  
+  .th {
     border: 1px solid #dfe2e5;
     padding: 6px 13px;
   }
 
-  .table tr {
+  .tr {
     background-color: #fff;
     border-top: 1px solid #c6cbd1;
   }
 
-  .table tr:nth-child(2n) {
+  .tr:nth-child(2n) {
     background-color: #f6f8fa;
   }
 
