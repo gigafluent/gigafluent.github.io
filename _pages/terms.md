@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Terms of Use
+layout: inner
+title: Book Scanner Terms of Use
 include_in_header: false
 ---
 

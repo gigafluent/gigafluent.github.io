@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Privacy Policy
+layout: inner
+title: Book Scanner Privacy Policy
 include_in_header: false
 ---
 
