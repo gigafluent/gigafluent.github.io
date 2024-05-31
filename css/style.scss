@@ -389,25 +389,27 @@ button.btn, input.btn {
     display: block;
     overflow: auto;
     width: 100%;
+    background-color: #ff0000;
   }
 
-  .td {
-    border: 1px solid #dfe2e5;
-    padding: 6px 13px;
-  }
-  
-  .th {
-    border: 1px solid #dfe2e5;
-    padding: 6px 13px;
-  }
-
-  .tr {
+  .table tr {
     background-color: #fff;
     border-top: 1px solid #c6cbd1;
   }
 
-  .tr:nth-child(2n) {
+  .table tr:nth-child(2n) {
     background-color: #f6f8fa;
+  }
+
+  .table tr td {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+    background-color: #00ff00;
+  }
+  
+  .table tr th {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
   }
 
 }
