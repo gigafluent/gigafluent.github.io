@@ -36,6 +36,14 @@ apps_section_title: 'My Apps'
 # Build settings
 markdown: kramdown
   
+collections:
+  posts:
+    output: true
+
+  pages:
+    output: true
+    permalink: /:path/
+
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
