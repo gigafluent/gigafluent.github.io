@@ -5,14 +5,14 @@ include_in_header: false
 ---
 
 **Last updated**  
-March 2024
+May 2024
 
 # Terms of Use and End User License Agreement
 
 <br>
 
 ## I. Introduction
-These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Gigafluent Ltd. (“we,” “us” or “our”), concerning your access to and use of [“JestGenie”](https://apps.apple.com/us/app/jestgenie/id6474176838) software application for mobile devices (the “App”). The App’s title may vary in countries other than the U.S. and is subject to change without specific notice.
+These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Gigafluent Ltd. (“we,” “us” or “our”), concerning your access to and use of [“Book Scanner”](https://apps.apple.com/us/app/id6468075372) software application for mobile devices (the “App”). The App’s title may vary and is subject to change without specific notice.
 
 All the documents that relate to the App are hereby expressly incorporated herein by reference.
 
@@ -43,12 +43,12 @@ You affirm that you are either more than eighteen (18) years of age, or an emanc
 <br>
 
 ## IV. General Terms
-The App is developed for entertainment purposes. The App generates captions for user-provided images using Artificial Intelligence models and technologies. See the full features list on the App’s page in the App Store.
+The App is developed for entertainment purposes. The App offers tools based on Artificial Intelligence models and technologies that allow you to scan text using the device camera and proofread that text using an AI service. See the full performance list on the App’s page in the App Store.
 
 <br>
 
 ## V. Privacy Policy
-Your privacy is very important to us. Accordingly, we have developed the Privacy Policy in order for you to understand how we process, use and store information including personal data. Access to the App and use of the Services are subject to the Privacy Policy. By accessing the App and by continuing to use the Services, you are deemed to have accepted the Privacy Policy, and in particular, you are deemed to have acknowledged the ways we process your information as well as appropriate legal grounds for processing described in the Privacy Policy. We reserve the right to amend the Privacy Policy from time to time. If you disagree with any part of the Privacy Policy, you must immediately stop using the App and Services. Please read our Privacy Policy carefully [CLICK HERE](https://gigafluent.github.io/jestgenie/privacypolicy/).
+Your privacy is very important to us. Accordingly, we have developed the Privacy Policy in order for you to understand how we process, use and store information including personal data. Access to the App and use of the Services are subject to the Privacy Policy. By accessing the App and by continuing to use the Services, you are deemed to have accepted the Privacy Policy, and in particular, you are deemed to have acknowledged the ways we process your information as well as appropriate legal grounds for processing described in the Privacy Policy. We reserve the right to amend the Privacy Policy from time to time. If you disagree with any part of the Privacy Policy, you must immediately stop using the App and Services. Please read our Privacy Policy carefully [CLICK HERE](/privacy-policy/).
 
 <br>
 
@@ -156,6 +156,12 @@ You can discontinue using our Services at any time by choosing the relevant opti
 
 ## IX. Charges
 The App is provided on a free basis. Once you download the App, you will have access to its basic features.
+
+Access to features powered by OpenAI’s ChatGPT (proofreading scanned text) requires In-App Purchases in the form of credits (“words”).
+
+The full list of credits purchase options and pricing are provided on the App’s page. You may have an opportunity to try the app features with free credits.
+
+Credits usage is based on OpenAI’s API tokens usage. Credits are called “words” inside the app interface for convenience. It is not guaranteed that 1 credit is always equal to 1. 
 
 <br>
 
