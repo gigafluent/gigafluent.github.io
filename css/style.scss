@@ -367,6 +367,20 @@ button.btn, input.btn {
     display: flex;
 }
 
+.page {
+  a {
+    color: inherit;
+    text-decoration: underline;
+    @include transition(color .2s ease-in-out);
+    &:visited {
+      color: inherit;
+    }
+    &:hover {
+      color: #FF5B33;
+    }
+  }
+}
+
 /*--------------------------------------------------------------
 	4.0 Footer
 --------------------------------------------------------------*/
