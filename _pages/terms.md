@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 2024
+April 2025
 
 # Terms of Use and End User License Agreement
 
@@ -157,11 +157,31 @@ You can discontinue using our Services at any time by choosing the relevant opti
 ## IX. Charges
 The App is provided on a free basis. Once you download the App, you will have access to its basic features.
 
-Access to features powered by OpenAI’s ChatGPT (proofreading scanned text) requires In-App Purchases in the form of credits (“words”).
+Access to features powered by OpenAI’s ChatGPT (proofreading scanned text) requires In-App Purchases in the form of credits (“words”) or paid subscriptions.
 
-The full list of credits purchase options and pricing are provided on the App’s page. You may have an opportunity to try the app features with free credits.
+The full list of credits purchase options and pricing are provided on the App’s page. You may have an opportunity to try the app features with free credits or during subscription’s free trial period.
 
-Credits usage is based on OpenAI’s API tokens usage. Credits are called “words” inside the app interface for convenience. It is not guaranteed that 1 credit is always equal to 1. 
+Credits usage is based on OpenAI’s API tokens usage. Credits are called “words” inside the app interface for convenience. It is not guaranteed that 1 credit is always equal to 1 word of text - that ratio varies based on the scanned language and token usage.
+
+### Information about subscription plans 
+The information about available subscription plans will be shown to you within the App. Details about the subscription plan you have chosen (inter alia, the duration of subscription billing period (billing cycle), the amount of recurring subscription fee, other information) will be presented to you before the confirmation of purchase and/or subscription activation.
+
+### Free trials
+Some subscription plans in the Apps may offer you to try subscription features at no charge for a specified free trial period. If you activate a subscription with an available free trial, note that after expiration of the applicable free trial period your auto-renewable paid subscription will start and you will be charged automatically each subscription billing period unless you cancel your subscription. If you want to prevent the start of charging and automatic transition to a paid subscription, make sure that you cancel your subscription with a free trial at least twenty-four (24) hours before the trial period ends. The subscription features are available during the whole free trial period, however, once you cancel your free trial, you will lose access to the subscription features.
+
+### Subscription auto-renewals 
+All subscriptions available for purchase within the Apps are auto-renewable. It means that during the 24-hour period before the current billing cycle for the applicable subscription plan ends, such subscription plan will renew automatically for the next billing cycle (weekly, monthly, annually, within another applicable period), and you will be charged automatically on an ongoing basis unless you turn off subscription auto-renewal. Therefore, to prevent the auto-renewal of your subscription plan for the next billing cycles and withdrawal of funds, make sure that you cancel your subscription at least twenty-four (24) hours before subscription renewal date, i.e. at least twenty-four (24) hours before the current billing cycle ends.
+
+### Payment method
+If you purchase a subscription in the App for iOS devices through the Apple App Store, all payments for subscriptions will be charged to the payment method used with your Apple ID and submitted at the time of purchase confirmation and/or subscription activation. If you purchase a subscription in the App for Android devices through the Google Play Store, all payments for subscriptions will be charged to the payment method from your Google account submitted at the time of purchase confirmation and/or subscription activation. All purchases of subscriptions that are offered in the Apps are billed through the In-App Purchase systems of the Apple App Store or the Google Play Store (depending on which App (for iOS or Android devices) you use to purchase a subscription).
+
+### Subscription cancellation
+To turn off auto-renewal of any subscription purchased in the App for iOS devices through the Apple App Store, follow the relevant instructions from [this Apple support article](https://support.apple.com/en-us/118428). To turn off auto-renewal of any subscription purchased in the App for Android devices through the Google Play Store, follow the relevant instructions from [this Google support article](https://support.google.com/googleplay/answer/7018481#zippy=%2Cwhat-happens-after-you-cancel). When you cancel a subscription you’ll still be able to use the subscription features for the reminder of the current subscription billing period you’ve already paid. The cancellation goes into effect after the current subscription billing period has passed. In any event bear in mind that cancellation of subscription auto-renewal must be made on time: in order to avoid being automatically charged, you need to cancel the subscription at least twenty-four (24) hours before the end of the free trial or the current subscription billing period. Also note that removing the App from your device does not deactivate, suspend or cancel your subscription.
+
+### Refunds
+In some cases (when you meet all eligibility requirements) Apple or Google may give refunds with respect to purchases made through the Apple App Store or the Google Play Store correspondingly. To learn more details about the rules applicable to refunds on the Apple App Store or the Google Play Store, please review [this Apple support article](https://support.apple.com/en-by/118223) or Google Play’s [Refund Policy](https://support.google.com/googleplay/answer/2479637?hl=en).
+
+You may be charged by your communications service provider for downloading and/or accessing the App on your mobile phone or tablet device, so you should check the terms of agreement with your operator. This may include data roaming charges if you download / access / use the App outside your home territory. All these charges are solely your responsibility. If you do not pay the bills related to your mobile phone or tablet device, then we assume that you have the permission from the person that does it before incurring any of these charges.
 
 <br>
 

@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 2024
+April 2025
 
 # Privacy Policy
 
@@ -101,6 +101,7 @@ What data can be processed:
 - **Log file information**. Log file information is automatically reported each time you make a request to access the App. It can also be provided when the App is installed on your device. When you use our App, analytics tools automatically record certain log file information, including time and date when you start and stop using the App, and how you interact with the App.
 - **Ad-related information**. The following data might be reported about the ads you can view: the date and time a particular ad is served; a record if that ad was “clicked” or if it was shown as a “conversion” event; what the ad offer is about; what type of ad it is (e.g., text, image, or video); which ad placement is involved (where the ad offer is displayed within the App); whether you respond to the ad.
 - **In-App events**. When you use our App, analytics tools automatically record in-App information (tutorial steps, leveling up, payments, in-app purchases, custom events, progression events, method of limiting the processing of user data).
+- **Subscription details**. Information about your subscriptions in the App (subscription ID, subscription start date, its duration, payment receipts).
 
 Information provided automatically to analytics tools does not generally come under our control, therefore we cannot be responsible for processing such information. Please mind that some services are engaged in personal data profiling and may obtain information related to your personality and/or your device by using technologies that do not belong to our scope of responsibility. We do not control, supervise, or stand surety for how the third parties process your personal data, that might be collected by their own means (not through our App). Any information request regarding the disclosure of your personal information should be directed to such third parties (see Section IV).
 
